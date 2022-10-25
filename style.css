@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(140, 226, 129);
+}
+header {
+    
+    color: rgb(241, 10, 10);
+}
+#logo { width: 50%;
+}
+h1 {
+    display: inline-block;
+    color: blue;
+    text-align: center;
+}
+
+.itens {
+    background-color: rgb(39, 171, 215);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
