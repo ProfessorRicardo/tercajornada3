@@ -6,6 +6,10 @@ header {
     
     color: rgb(241, 10, 10);
 }
+
+nav { 
+    
+}
 #logo { width: 50%;
 }
 nav li {
@@ -22,4 +26,16 @@ h1 {
     font-size: 25px;
     color: rgb(255, 255, 255);
     text-align: left;
+}
+
+footer {
+    text-align: center;
+    background: #c5c1c1;  url("formadores.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #080808;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
